@@ -1,11 +1,12 @@
 # 👋 Hey, I'm Roya Gozalpour,
 
+
 🎓 Computer Science student from Tehran, Iran.  
 🎯 Pursuing a Master's degree in Artificial Intelligence abroad
 🐍 Currently learning Python through [100 Days of Code](https://www.udemy.com/course/100-days-of-code/?couponCode=PMNVD3025) by Dr. Angela Yu  
 💻 I’m deeply passionate about **mathematics**, **data analysis**, and the art of **problem solving**. Whether it's debugging code or unraveling complex algorithms, I thrive on challenges that stretch my mind.
 ---
-
+https://pin.it/5A3k09Um4
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
