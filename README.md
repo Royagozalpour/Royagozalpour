@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Roya Gozalpour,
 
-![Alt text](https://pin.it/6LmqTZSSb/image.jpg)
+<img src="assets/profile.jpg" alt="Profile Picture" width="200"/>
 
 
 
