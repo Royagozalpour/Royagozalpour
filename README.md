@@ -34,4 +34,6 @@
 - [LinkedIn](https://www.linkedin.com/in/smiteshmohanty)
 - [Discord](https://discordapp.com/users/_luciangel)
 
-*Thanks for visiting! bye.*
+---
+
+*Thanks for visiting!*
