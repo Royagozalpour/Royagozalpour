@@ -31,9 +31,14 @@
 ---
 ## *Connect with Me:*
 
-- [LinkedIn](https://www.linkedin.com/in/smiteshmohanty)
-- [Discord](https://discordapp.com/users/_luciangel)
-
+<a href="http://www.linkedin.com/in/roya-gozalpour-b39587234" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="30" alt="linkedin logo"  />
+  </a>
+  
+ <a href="https://discordapp.com/users/_luciangel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="30" alt="discord logo"  />
+  </a>
+  
 ---
 
 *Thanks for visiting!*
