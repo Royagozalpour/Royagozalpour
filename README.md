@@ -27,5 +27,9 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Royagozalpour&theme=onedark&margin-w=10&margin-h=10)
 
 ---
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/smiteshmohanty)
+- [Discord](https://discordapp.com/users/_luciangel)
 
 Thanks for visiting! Feel free to explore my repositories or reach out if you're interested in collaborating on AI or data-driven projects 🚀
